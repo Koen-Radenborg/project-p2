@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: rgb(0, 0, 0);
+    padding-top: 5%;
+}
+main,h1{
+    text-align: center; margin: auto; width: 80%; font-size: 150%;
+ }
+ p{
+     color: black;
+ }
+ h2{
+     padding-top: 5vw;
+     color: white;
+     text-align: center;
+ }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #1a4088;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+li a{
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+}
+li{
+    display: inline;
+     float: left;
+ }
+ li a:hover{
+    background-color: #111;
+}
