@@ -94,5 +94,13 @@ body {
     100% {
       bottom: 0;
     }
-  }
   
+  }
+  #damianfoto{
+    width: 25%;
+    height: 25%;
+  }
+  p{
+    text-align: center;
+    font-size: larger;
+  }
